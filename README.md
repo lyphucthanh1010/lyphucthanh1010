@@ -21,6 +21,7 @@
  <a href= "https://figma.com" target ="_blank"> <img src ="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="figma" width="40"height="40"/></a>
  <a href= "https://postman.com" target ="_blank"> <img src ="https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png" alt="postman" width="40"height="40"/></a>
  <a href= "https://firebase.google.com/" target ="_blank"> <img src ="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" alt="firebase" width="40"height="40"/></a>
+ <a href= "https://www.sqlite.org" target ="_blank"> <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png" alt="sqlite" width="40"height="40"/></a>
 
 
 <h3 align="left">Connect with me:

@@ -14,7 +14,9 @@
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+  <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+  <a href="https://jquerymobile.com/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/jquery-mobile-icon-512x382-a729sb3m.png" alt="jquerymobile" width="40" height="40"/> </a>
+</p>
   <a href= "https://www.w3schools.com/cs/" target ="_blank"> <img src ="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" alt="cs" width="40"height="40"/></a>
  <a href= "https://www.w3schools.com/c/" target ="_blank"> <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="c" width="40"height="40"/></a>
  <a href= "https://www.w3schools.com/python/" target ="_blank"> <img src ="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40"height="40"/></a>

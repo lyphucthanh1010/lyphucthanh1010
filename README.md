@@ -16,6 +16,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
   <a href="https://jquerymobile.com/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/jquery-mobile-icon-512x382-a729sb3m.png" alt="jquerymobile" width="40" height="40"/> </a>
+   <a href= "https://dart.dev/" target ="_blank"> <img src ="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.png" alt="dart" width="40"height="40"/></a>
 </p>
   <a href= "https://www.w3schools.com/cs/" target ="_blank"> <img src ="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" alt="cs" width="40"height="40"/></a>
  <a href= "https://www.w3schools.com/c/" target ="_blank"> <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="c" width="40"height="40"/></a>
@@ -25,7 +26,7 @@
  <a href= "https://firebase.google.com/" target ="_blank"> <img src ="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" alt="firebase" width="40"height="40"/></a>
  <a href= "https://www.sqlite.org" target ="_blank"> <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png" alt="sqlite" width="40"height="40"/></a>
  <a href= "https://flutter.dev/?utm_source=flutter_github_io&utm_medium=Redirect&utm_content=meta_refresh" target ="_blank"> <img src ="https://www.svgrepo.com/show/353751/flutter.svg" alt="flutter" width="40"height="40"/></a>
- <a href= "https://dart.dev/" target ="_blank"> <img src ="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.png" alt="dart" width="40"height="40"/></a>
+
 
 
 <h3 align="left">Connect with me:

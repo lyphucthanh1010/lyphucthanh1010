@@ -49,4 +49,8 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lyphucthanh1010&theme=radical"/>
   </a>
 </p>
-
+<p align="left">
+  <a href="https://github.com/lyphucthanh1010">
+    <img src="https://github-profile-trophy.vercel.app/?username=lyphucthanh1010&theme=onedark&no-bg=true"/>
+  </a>
+</p>

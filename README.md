@@ -37,6 +37,16 @@
 
   
   
-  ![Thanh's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyphucthanh1010&theme=radical&show_icons=true)
+<h3 align="left">My Github's Stat:
+<p align="left">
+  <a href="https://github.com/lyphucthanh1010">
+    <img src="https://github-readme-stats.vercel.app/api?username=lyphucthanh1010&theme=radical&show_icons=true" alt=""/>
+  </a>
+</p>
 
+<p align="left">
+  <a href="https://github.com/lyphucthanh1010">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lyphucthanh1010&theme=radical"/>
+  </a>
+</p>
 

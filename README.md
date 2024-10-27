@@ -5,7 +5,7 @@
 - 🌱 I'm Phuc Thanh, I’m currently at University of Information Technology VNU, my department is Computer Network & Communications Data •~•
 - 👀 I’m interested in learning new things, reading, working out and coding •~•
 - 💻 I'm looking to collaborate with other people and work effectively with my team. I'm kind of person who will devote myself to the work I take on •~•
-- 📫 Self-learning: Mobile Developer •~•
+- 📫 Self-learning: Software Engineer •~•
   
 </p>
   <h3 align="left">Languages and Tools:</h3>

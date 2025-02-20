@@ -32,7 +32,7 @@
 <h3 align="left">Connect with me:
 <p align="left">
 <a href="https://www.facebook.com/zrx.lpt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lyphucthanh1010" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_.shmilyzz._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lyphucthanh1010" height="30" width="40" /></a>
+<a href="https://www.instagram.com/fcu_thhan._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lyphucthanh1010" height="30" width="40" /></a>
 <hr>
 
   

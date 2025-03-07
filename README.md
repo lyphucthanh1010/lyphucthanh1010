@@ -2,7 +2,8 @@
 
 <h3>🌟ABOUT MYSELF 🌟</h3>
 
-- 🌱 I'm Phuc Thanh, I have graduated from University of Information Technology VNU, my department is Computer Network & Communications Data. Now I'm being an AI Engineer at Askany •~•
+- 🌱 I'm Phuc Thanh, I have graduated from University of Information Technology VNU, my department is Computer Network & Communications Data •~•
+- 💻 I'm pursuing a Master Degree of Computer Science in University of Information Technology VNU
 - 👀 I’m interested in learning new things, reading, working out and coding •~•
 - 💻 I'm looking to collaborate with other people and work effectively with my team. I'm kind of person who will devote myself to the work I take on •~•
 - 📫 Self-learning: Software Engineer •~•
